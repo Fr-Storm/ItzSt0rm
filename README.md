@@ -11,18 +11,15 @@ _To contact DM me on Discord :D_
 
 ## _Stats_ 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSt0rm&show_icons=true&theme=dark)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr-Storm&show_icons=true&theme=dark)]()
 
 <br />
 
-[![](https://github-readme-stats.vercel.app/api?username=ITZST0RM&theme=dark)]()
+[![](https://github-readme-stats.vercel.app/api?username=Fr-Storm&theme=dark)]()
 
 <br />
 
 ## _Languages_
 <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">        <img src = "https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">
 
-<!---
-ItzSt0rm/ItzSt0rm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
